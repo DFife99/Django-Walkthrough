@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class BafConfig(AppConfig):
-    name = 'baf'
+class BagConfig(AppConfig):
+    name = 'bag'
